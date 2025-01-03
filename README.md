@@ -1,7 +1,11 @@
 # PYTHON-MEP
+
 ##MODULE END PROJECT PYTHON##
+
 Employee Data Analysis Project
+
 **Project Overview**
+
 This project involves analyzing employee data from ABC Company to provide valuable insights. The dataset consists of 458 rows and 9 columns. The analysis covers preprocessing, data exploration, and visualization to uncover trends and patterns.
 
 1. Preprocessing Steps
